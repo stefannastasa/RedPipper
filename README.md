@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RedPipper
-- 👀 I'm interested in many things, but I enjoy playing around with linux, low-level stuff, algorithms and hopefully, in the future, AI and Big Data.
-- 🌱 I’m currently expanding my knowledge of how computers work at their core and I'm having the time of my life. 
+- 👋 Hi, I’m @RedPipper, a computer science student currently passionate about telling hardware what to do.
+- 👀 I'm interested in many things, but I find myself emersed mostly in operating systems, linux, scripting, optimization, data and algorithm analysis.
+- 🌱 I’m currently exploring computer science and expanding my own interests day by day. 
 - 💞️ I’m looking for working or collaborating on any open source project.
 - 📫 How to reach me: stefan21nastasa@gmail.com or https://www.linkedin.com/in/stefannastasa/
 
