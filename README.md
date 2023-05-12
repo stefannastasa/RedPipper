@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RedPipper, a computer science student passionate about bending limits.
+- 👋 Hi, I’m @RedPipper, a 2nd year computer science student.
 - 👀 I'm interested in many things, but I find myself emersed mostly in operating systems, linux, scripting, optimization, data and algorithm analysis.
 - 🌱 I’m currently exploring computer science and expanding my own interests day by day. 
 - 💞️ I’m looking for exciting work opportunities and to volunteer on open source projects.
